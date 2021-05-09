@@ -11,8 +11,11 @@ Is the delivery of computing services over the internet by using a pay-as-you-go
 ## Cloud Service Models :cloud::fork_and_knife:
 Cloud computing falls into one of the following computing models: **infrastructure as a service (IaaS)**, **platform as a service (PaaS)**, and **software as a service (SaaS)**. These models define the different level of shared responsibility that a cloud provider and cloud tenant are responsible for.
 
-### IaaS
+### IaaS :office:
+This cloud service model is the closest to managing physical servers. A cloud provider keeps the hardware up to date, but operating system maintenance and network configuration is left to the cloud tenant.
 
-### PaaS
+### PaaS :office::bar_chart:
+This cloud service model is a managed hosting environment. The cloud provider manages the virtual machines and networking resources, and the cloud tenant deploys their applications into the managed hosting environment.
 
-### SaaS
+### SaaS :office::bar_chart::iphone:
+In this cloud service model, the cloud provider manages all aspects of the application environment, such as virtual machines, networking resources, data storage, and applications. The cloud tenant only needs to provide their data to the application managed by the cloud provider.
