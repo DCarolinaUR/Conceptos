@@ -19,3 +19,16 @@ This cloud service model is a managed hosting environment. The cloud provider ma
 
 ### SaaS :office::bar_chart::iphone:
 In this cloud service model, the cloud provider manages all aspects of the application environment, such as virtual machines, networking resources, data storage, and applications. The cloud tenant only needs to provide their data to the application managed by the cloud provider.
+
+## Serverless Computing :thought_balloon::office:
+Serverless computing enables developers to build applications faster by eliminating the need for them to manage infrastructure. With serverless applications, the cloud service provider automatically provisions, scales, and manages the infrastructure required to run the code.
+
+## Cloud Deployment Models :cloud::rocket:
+There are three deployment models for cloud computing: public cloud, private cloud, and hybrid cloud. Each deployment model has different aspects that you should consider as you migrate to the cloud.
+
+### Public Cloud :earth_americas::cloud:
+Services are offered over the public internet and available to anyone who wants to purchase them. Cloud resources like servers and storage are owned and operated by a third-party cloud service provider and delivered over the internet.
+### Private Cloud :busts_in_silhouette::cloud:
+Computing resources are used exclusively by users from one business or organization. A private cloud can be physically located at your organization's on-site datacenter. It also can be hosted by a third-party service provider.
+### Hybrid Cloud ::bust_in_silhouette::earth_americas::cloud:
+This computing environment combines a public cloud and a private cloud by allowing data and applications to be shared between them.
