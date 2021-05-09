@@ -32,3 +32,13 @@ Services are offered over the public internet and available to anyone who wants 
 Computing resources are used exclusively by users from one business or organization. A private cloud can be physically located at your organization's on-site datacenter. It also can be hosted by a third-party service provider.
 ### Hybrid Cloud ::bust_in_silhouette::earth_americas::cloud:
 This computing environment combines a public cloud and a private cloud by allowing data and applications to be shared between them.
+
+## Azure Portal :ticket::house:
+The Azure portal is a web-based, unified console that provides an alternative to command-line tools. With the Azure portal, you can manage your Azure subscription by using a graphical user interface. You can:
+
+- Build, manage, and monitor everything from simple web apps to complex cloud deployments.
+- Create custom dashboards for an organized view of resources.
+- Configure accessibility options for an optimal experience.
+
+## Azure Marketplace :ticket::pouch:
+Azure Marketplace helps connect users with Microsoft partners, independent software vendors, and startups that are offering their solutions and services, which are optimized to run on Azure.
